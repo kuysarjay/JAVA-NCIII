@@ -2,7 +2,6 @@ package TaskFolder;
 public class Task2 {
     public static void main(String[] args) {
         byte b = 3;
-        short s = 110;
         int i = 110;
         float f = 2.0f;
         boolean bool = true;
