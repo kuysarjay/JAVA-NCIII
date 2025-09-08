@@ -1,4 +1,4 @@
-package TaskFolder;
+package taskFolder;
 
 import java.util.Arrays;
 import java.util.Scanner;

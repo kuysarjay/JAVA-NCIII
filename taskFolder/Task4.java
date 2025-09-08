@@ -1,4 +1,5 @@
-package TaskFolder;
+package taskFolder;
+
 import java.util.Scanner;
 
 public class Task4 {
